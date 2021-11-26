@@ -3,8 +3,10 @@
 # Project 081
 
 
-**Welcome to the Project 081 website.** This is the place where you'll find downloads, documentation, install guides and other useful information.
+**Welcome to the temporary Project 081 website.** This is the place where you'll find downloads, documentation, install guides and other useful information.
 Project 081 is a modified Mac OS X 10.4.10 Tiger image that allows you to install Tiger on your unsupported Late 2007 and Early 2008 Apple Macs.
+
+**NOTE: This page will eventually be replaced or improved. I apologize for the mess.**
 
 ### **Where do you want to go today?**
 
