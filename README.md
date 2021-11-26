@@ -1,6 +1,9 @@
 <img width="256" alt="Project081-MainLogo" src="https://user-images.githubusercontent.com/71722170/143572664-dd5c2017-4ed7-4612-880d-783ab828aa28.png">
 
-Welcome to the Project 081 website. This is the place where you'll find downloads, documentation, install guides and other useful information.
+# Project 081
+
+
+**Welcome to the Project 081 website.** This is the place where you'll find downloads, documentation, install guides and other useful information.
 Project 081 is a modified Mac OS X 10.4.10 Tiger image that allows you to install Tiger on your unsupported Late 2007 and Early 2008 Apple Macs.
 
 ### **Where do you want to go today?**
@@ -13,15 +16,14 @@ Project 081 is a modified Mac OS X 10.4.10 Tiger image that allows you to instal
 
 ### Videos
 
-##### **We do not recommend following unofficial install guides as they could potentially be outdated as versions change**
+### **We do not recommend following unofficial install guides as they could potentially be outdated as versions change**
 ![TB](https://user-images.githubusercontent.com/71722170/143601345-761ddf55-66c9-48b7-bd36-c4828cbbae7a.jpeg)
-Official Project 081 v0.5 Install Guide
-https://www.youtube.com/watch?v=ch_eIXkctLg
+
+[Official Project 081 v0.5 Install Guide](https://www.youtube.com/watch?v=ch_eIXkctLg "Official Project 081 v0.5 Install Guide")
 
 ### Other projects
 
 [Wii Archive](https://github.com/ForwarderFactory/wii "Wii") [Forwarder Factory](https://youtube.com/ForwarderFactory "FFYT") [Forwarder Factory Discord Server](https://ffdiscord.github.io "FFDiscord") [Elevendebloater](https://github.com/speediegamer/Elevendebloater "Debloater")
-
 
 
 
