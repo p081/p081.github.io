@@ -10,7 +10,7 @@ Project 081 is a modified Mac OS X 10.4.10 Tiger image that allows you to instal
 
 ### **Where do you want to go today?**
 
-[Docs](https://p081.github.io/wiki "Docs") [Downloads](https://p081.github.io/downloads "Downloads") [Install Guide](https://p081.github.io/installguide "InstallGuide") [Credits](https://p081.github.io/credits "Credits") [More](https://p081.github.io/more "More")
+[Docs](https://p081.github.io/wiki/wiki "Docs") [Downloads](https://p081.github.io/downloads "Downloads") [Install Guide](https://p081.github.io/installguide "InstallGuide") [Credits](https://p081.github.io/credits "Credits") [More](https://p081.github.io/more "More")
 
 ### **Socials**
 
