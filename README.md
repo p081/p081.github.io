@@ -10,11 +10,11 @@ Project 081 is a modified Mac OS X 10.4.10 Tiger image that allows you to instal
 
 ### **Where do you want to go today?**
 
-[Docs](https://github.com/p081/wiki/wiki "Docs") [Downloads](https://p081.github.io/downloads "Downloads") [Install Guide](https://p081.github.io/installguide "InstallGuide") [Credits](https://p081.github.io/credits "Credits") [More](https://p081.github.io/more "More")
+[Docs](https://github.com/p081/wiki/wiki "Docs") | [Downloads](https://p081.github.io/downloads "Downloads") | [Install Guide](https://p081.github.io/installguide "InstallGuide") | [Credits](https://p081.github.io/credits "Credits") | [More](https://p081.github.io/more "More")
 
 ### **Socials**
 
-[Twitter](https://twitter.com/@project081 "Twitter") [Developer's YouTube](https://youtube.com/speedie "DevYT") [GitHub](https://github.com/p081 "GitHub")
+[Twitter](https://twitter.com/@project081 "Twitter") | [Developer's YouTube](https://youtube.com/speedie "DevYT") | [GitHub](https://github.com/p081 "GitHub")
 
 ### Videos
 
@@ -25,7 +25,7 @@ Project 081 is a modified Mac OS X 10.4.10 Tiger image that allows you to instal
 
 ### Other projects
 
-[Wii Archive](https://github.com/ForwarderFactory/wii "Wii") [Forwarder Factory](https://youtube.com/ForwarderFactory "FFYT") [Forwarder Factory Discord Server](https://ffdiscord.github.io "FFDiscord") [Elevendebloater](https://github.com/speediegamer/Elevendebloater "Debloater")
+[Wii Archive](https://github.com/ForwarderFactory/wii "Wii") | [Forwarder Factory](https://youtube.com/ForwarderFactory "FFYT") | [Forwarder Factory Discord Server](https://ffdiscord.github.io "FFDiscord") | [Elevendebloater](https://github.com/speediegamer/Elevendebloater "Debloater")
 
 
 
