@@ -10,11 +10,18 @@ Project 081 is a modified Mac OS X 10.4.10 Tiger image that allows you to instal
 
 ### **Where do you want to go today?**
 
-[Docs](https://github.com/p081/wiki/wiki "Docs") | [Downloads](https://p081.github.io/downloads "Downloads") | [Install Guide](https://p081.github.io/installguide "InstallGuide") | [Credits](https://p081.github.io/credits "Credits") | [More](https://p081.github.io/more "More")
+[Docs](https://github.com/p081/wiki/wiki "Docs") | [Downloads](https://p081.github.io/downloads "Downloads") | [Install Guide](https://p081.github.io/installguide "InstallGuide") | [Credits](https://p081.github.io/credits "Credits") | [More](https://p081.github.io/more "More") | [RSS](https://raw.githubusercontent.com/spdgmr/posts/main/rss.xml)
 
 ### **Socials**
 
 [Twitter](https://twitter.com/@project081 "Twitter") | [Developer's YouTube](https://youtube.com/speedie "DevYT") | [GitHub](https://github.com/p081 "GitHub")
+
+### **Stay updated**
+You can get updates right away using our RSS feed. (I know it seems kinda old-school but it's great)
+A good RSS reader IMO is newsboat. You can use anything though.
+Just add [this](https://raw.githubusercontent.com/spdgmr/posts/main/rss.xml) link to it.
+
+NOTE: The feed also has stuff for other projects.
 
 ### Videos
 
