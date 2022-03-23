@@ -1,8 +1,13 @@
 <img width="300" alt="Project081-MainLogo" src="https://user-images.githubusercontent.com/71722170/143572664-dd5c2017-4ed7-4612-880d-783ab828aa28.png">
 
 # Project 081
+##### Running Tiger on 2008 Macs since 2020
 
-**Welcome to the official Project 081 website.** This is the place where you'll find downloads, documentation, install guides and other useful information.
+<img width="380" alt="Project081-Animation" src="https://github.com/p081/p081.github.io/blob/temp/files/animation.gif?raw=true">
+
+**Welcome to the official Project 081 website.** 
+
+This is the place where you'll find downloads, documentation, install guides and other useful information.
 Project 081 is a modified Mac OS X 10.4.10 Tiger image that allows you to install Tiger on your unsupported Late 2007 and Early 2008 Apple Macs.
 
 ### **ls -a | less**
